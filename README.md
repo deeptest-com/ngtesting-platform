@@ -2,6 +2,7 @@
 交流合作请加微信, Wechat: 462826
 
 客户端代码已开源：https://github.com/aaronchen2k/ngtesting-client
+
 新DeepTest项目请见：[https://github.com/aaronchen2k/ngtesting-client](https://github.com/deeptest-com/deeptest)
 
 DEMO: http://139.224.8.129:50080
